@@ -1,0 +1,2 @@
+- Account created to test bot contributions to OMG/vivi
+- DM @tellurate on discord with questions
